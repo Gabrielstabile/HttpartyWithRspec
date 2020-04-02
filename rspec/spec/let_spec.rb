@@ -1,7 +1,7 @@
-describe 'somando com uma variavel let' do
+describe 'Adding numbers with a let variable' do
     let(:total) {2+2}
 
-    it 'soma' do 
+    it 'plus' do 
         expect(total).to eq 4
     end
 end
