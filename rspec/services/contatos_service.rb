@@ -5,6 +5,4 @@ module Contato
     format :json
     headers Accept: 'application/vnd.tasksmanager.v2',
             'Content-Type': 'application/json'
-
-
 end
