@@ -7,7 +7,7 @@ describe 'Make a GET requisition' do
         # puts @getResponse
 
         @betterWay = Contato.get("/contacts/33")
-        puts @betterWay
+        # puts @betterWay
     end
 
 end
